@@ -52,7 +52,7 @@ Two object detection models were trained and compared:
 | Hyperparameter Search | Bayesian Optimization     |
 | Augmentation          | Mosaic, flipping, scaling |
 
-# 📊 Model Evaluation
+# Model Evaluation
 
 Models were evaluated using standard object detection metrics:
 
@@ -132,7 +132,7 @@ football-ball-possession-estimator
 └── results/
 ```
 
-# 🚀 Installation
+# Installation
 
 Clone the repository:
 
@@ -147,7 +147,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-# ▶️ Usage
+# Usage
 
 Run possession estimation on a video:
 
